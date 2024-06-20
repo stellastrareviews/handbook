@@ -69,6 +69,7 @@ Some CT Logs search engines:
 - https://censys.io/
 - https://developers.facebook.com/tools/ct/
 - https://google.com/transparencyreport/https/ct/
+- https://stellastra.com/solution/certificate-transparency-log-monitor
 
 #### massdns [^massdns]
 ```sh
